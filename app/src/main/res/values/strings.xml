@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Group32_IC03</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="et_lastName">Last Name</string>
+    <string name="et_firstName">First Name</string>
+    <string name="tv_selectGender">Select Gender</string>
+    <string name="rb_male_text">Male</string>
+    <string name="rb_female_text">Female</string>
+    <string name="button_save">Save</string>
+    <string name="button_edit_text">Edit</string>
+    <string name="tv_gender_display" >Gender</string>
+    <string name="tv_firstName_display">FirstName</string>
+    <string name="tv_lastName_display">LastName</string>
+</resources>
